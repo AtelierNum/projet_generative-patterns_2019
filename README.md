@@ -16,7 +16,7 @@ On vient ensuite taper sur les lettres du clavier pour découvrir des mots, selo
 
 <img src="Denechere_Theo/output.gif" width="480" height="240" />
 
-https://www.openprocessing.org/sketch/724779
+[https://www.openprocessing.org/sketch/724779](https://www.openprocessing.org/sketch/724779)
 
 
 
@@ -29,7 +29,7 @@ Ainsi cette réalisation joue avec le cadre établi, ma manière d’appréhend�
 
 <img src="Gillet_Pauline/GIF.gif" width="480" height="240" />
 
-https://www.openprocessing.org/sketch/719257
+[https://www.openprocessing.org/sketch/719257](https://www.openprocessing.org/sketch/719257)
 
 
 ## Girard Romane
@@ -44,7 +44,7 @@ Tous ces éléments changent de position lorsque la souris est en mouvement, m
 
 <img src="Girard_Romane/output.gif" width="480" height="240" />
 
-https://www.openprocessing.org/sketch/724791
+[https://www.openprocessing.org/sketch/724791](https://www.openprocessing.org/sketch/724791)
 
 
 ## Blondel Selma
@@ -64,7 +64,7 @@ Ce projet est très simple visuelement mais permet un rendu efficace et varié.
 
 <img src="Blondel_Selma/output.gif" width="480" height="240" />
 
-https://www.openprocessing.org/sketch/730269
+[https://www.openprocessing.org/sketch/730269](https://www.openprocessing.org/sketch/730269)
 
 
 ## Manchjam Léa
@@ -82,7 +82,7 @@ Inspirations et références :
 <img src="Manchajm_Lea/output.gif" width="480" height="240" />
 
 
-https://www.openprocessing.org/sketch/729639
+[https://www.openprocessing.org/sketch/729639](https://www.openprocessing.org/sketch/729639)
 
 
 
@@ -95,7 +95,7 @@ Je pense que ça rend ce motif un peu absurde !
 
 <img src="Multon_Justine/output.gif" width="480" height="240" />
 
-https://www.openprocessing.org/sketch/724805
+[https://www.openprocessing.org/sketch/724805](https://www.openprocessing.org/sketch/724805)
 
 
 ## Papillon Guillaume
@@ -106,7 +106,7 @@ En résulte une masse mouvante qui se module en couleur, en taille, en concentra
 
 <img src="Papillon_Guillaume/ezgif-2-c090685ab35e.gif" width="480" height="240" />
 
-https://www.openprocessing.org/sketch/752168
+[https://www.openprocessing.org/sketch/752168](https://www.openprocessing.org/sketch/752168)
 
 
 ## Pierre Robin
@@ -123,7 +123,7 @@ Chacune d’entre elle sera composée de lignes horizontales en mouvement automa
 
 <img src="Pierre_Robin/output.gif" width="480" height="240" />
 
-https://www.openprocessing.org/sketch/719466
+[https://www.openprocessing.org/sketch/719466](https://www.openprocessing.org/sketch/719466)
 
 
 
@@ -136,7 +136,7 @@ De plus le travail de rotation et de creation de formes à partir de cela est q
 
 <img src="Fabarez_Justine/output.gif" width="480" height="240" />
 
-https://www.openprocessing.org/sketch/730240
+[https://www.openprocessing.org/sketch/730240](https://www.openprocessing.org/sketch/730240)
 
 
 ## Watrin Romane
@@ -148,7 +148,7 @@ Ainsi, l’idée de maille est représentée au travers des ondulations du modul
 
 <img src="Watrin_Romane/output.gif" width="480" height="240" />
 
-https://www.openprocessing.org/sketch/730242
+[https://www.openprocessing.org/sketch/730242](https://www.openprocessing.org/sketch/730242)
 
 
 
@@ -158,7 +158,7 @@ Cette réalisation générative tend à représenter mon affinité pour un ensem
 
 <img src="Haremza_Julia/haremza_julia.gif" width="480" height="240" />
 
-https://www.openprocessing.org/sketch/719344/
+[https://www.openprocessing.org/sketch/719344/](https://www.openprocessing.org/sketch/719344/)
 
 
 ## Khelifi Farouk
@@ -174,9 +174,9 @@ Et une autre inspiration, ne sachant pas quoi faire exactement (la carte météo
 Cette inspiration outre le coté oeil de lézard, c'est surout sommes nous vraiment observés, ou seulement paranoïa
 
 
-<img src="Khelifi_Farouk/lezardesque.gif" width="480" height="240" />
+<img src="Khelifi_Farouk/Lezardesque.gif" width="480" height="240" />
 
-https://www.openprocessing.org/sketch/730103
+[https://www.openprocessing.org/sketch/730103](https://www.openprocessing.org/sketch/730103)
 
 
 ## Konigsdorfer Marie
@@ -190,7 +190,7 @@ J'ai voulu aussi mettre en valeur mon envie d'aller vers plus de couleurs dans m
 
 <img src="Konigsdorfer_Marie/Marie_Konigsdorfer_GIF.gif" width="480" height="240" />
 
-https://www.openprocessing.org/sketch/724790
+[https://www.openprocessing.org/sketch/724790](https://www.openprocessing.org/sketch/730103)
 
 
 
@@ -202,9 +202,9 @@ Un voile qui permet de garder une part de mystère et de chercher à lire la 
 Grâce au clivage mit en place la phrase placée sous le voile est, elle-même, dure à déchiffrer. 
 J'ai choisi une phrase du film "les cercles des poètes disparus" pour accompagner mon propos, car le design c'est avant tout des idées et ces idées peuvent un jour changer le monde.
 
-<img src="Allombert_Ines/gif_1560853237.gif" width="480" height="240" />
+<img src="Allombert_Ines/gif_1560853237.GIF" width="480" height="240" />
 
-https://www.openprocessing.org/sketch/719414
+[https://www.openprocessing.org/sketch/719414](https://www.openprocessing.org/sketch/719414)
 
 
 ## Amandine Leroy
@@ -214,7 +214,7 @@ J’ai décidé de représenter des ondes qui vibrent et grandissent en fonct
 <img src="Leroy_Amandine/output.gif" width="480" height="240" />
 
 
-https://www.openprocessing.org/sketch/725403
+[https://www.openprocessing.org/sketch/725403](https://www.openprocessing.org/sketch/725403)
 
 
 
@@ -229,7 +229,7 @@ Il ne s’agit pas de savoir comment je m’appelle, mais de comprendre en un ra
 
 <img src="Bernaerts_Fiona/output.gif" width="480" height="240" />
 
-https://www.openprocessing.org/sketch/724771#
+[https://www.openprocessing.org/sketch/724771#](https://www.openprocessing.org/sketch/724771#)
 
 
 ## Bertin Caroline
@@ -241,7 +241,7 @@ Le fond, nuances de noir et blanc, vient calmer cette atmosphère criard et de 
 
 <img src="Bertin_Caroline/output.gif" width="480" height="240" />
 
-https://www.openprocessing.org/sketch/719300#
+[https://www.openprocessing.org/sketch/719300#](https://www.openprocessing.org/sketch/719300#)
 
 
 
@@ -251,16 +251,16 @@ Réalisation de la page d’accueil animée de mon portfolio
 en ligne inspirée de mon identité globale. Ma charte graphique est basée sur un rond bleu réalisé à la bombe, sur fond blanc. Le tout est épuré et sensible, à l’image de ce que j’aime : minimalisme et beauté du détail.
 La couleur que l’on retrouve sur tous mes supports de communication est le bleu pour sa douceur. My generative self conserve ces mêmes éléments : le bleu/blanc et le rond. L’animation révèle des jeux de superposition, la partie droite est sur fond blanc tandis que la partie gauche est en bleu.
 
-<img src="Brossaud_emma/GIF.gif" width="480" height="240" />
+<img src="Brossaud_Emma/GIF.gif" width="480" height="240" />
 
-https://www.openprocessing.org/sketch/729617#
+[https://www.openprocessing.org/sketch/729617#](https://www.openprocessing.org/sketch/729617#)
 
 
 ## Buesing Deborah
 
 <img src="Buesing_Deborah/output.gif" width="480" height="240" />
 
-https://www.openprocessing.org/sketch/730509
+[https://www.openprocessing.org/sketch/730509](https://www.openprocessing.org/sketch/729617#)
 
 
 
@@ -271,7 +271,7 @@ Je voulais donc que les différents motifs obtenues puissent évoluer au fûr et
 
 <img src="Dauvé_Bastien/output.gif" width="480" height="240" />
 
-https://www.openprocessing.org/sketch/725391
+[https://www.openprocessing.org/sketch/725391](https://www.openprocessing.org/sketch/725391)
 
 
 ## De La Tribouille Agathe
@@ -284,7 +284,7 @@ L'avancement des barres pourraient être semblable de mon point de vue à des p�
 <img src="Delatribouille_Agathe/output.gif" width="480" height="240" />
 
 
-https://www.openprocessing.org/sketch/724772
+[https://www.openprocessing.org/sketch/724772](https://www.openprocessing.org/sketch/724772)
 
 
 
@@ -297,7 +297,7 @@ C'est un processus cyclique, le logo se forme et et se déforme de manière in
 
 <img src="Gallou_Florian/GIF_gallou_florian.gif" width="480" height="240" />
 
-https://www.openprocessing.org/sketch/719401
+[https://www.openprocessing.org/sketch/719401](https://www.openprocessing.org/sketch/719401)
 
 
 
@@ -308,7 +308,7 @@ Ce code m'inspire l'atmosphère de la musique électronique. Il peut aussi bien 
 
 <img src="Graff_Guillaume/output.gif" width="480" height="240" />
 
-https://www.openprocessing.org/sketch/710882
+[https://www.openprocessing.org/sketch/710882](https://www.openprocessing.org/sketch/710882)
 
 
 ## Guelier Di Giulio Théodore
@@ -319,7 +319,7 @@ J'ai choisi de mettre en avant la typo Pacifico pour ses empatements et la diver
 
 <img src="GuelierDiGiulio_Theodore/output.gif" width="480" height="240" />
 
-https://www.openprocessing.org/sketch/730286
+[https://www.openprocessing.org/sketch/730286](https://www.openprocessing.org/sketch/730286)
 
 
 
@@ -337,7 +337,7 @@ une image entière riche et avec de relief, tout comme le design.
 
 <img src="Lenepveu_Louise/gif-processing.gif" width="480" height="240" />
 
-https://www.openprocessing.org/sketch/725372
+[https://www.openprocessing.org/sketch/725372](https://www.openprocessing.org/sketch/725372)
 
 
 
@@ -349,7 +349,7 @@ La créativité qu’un designer peu se développer, naît de sa propre éd
 
 <img src="Manoury_Jules/output.gif" width="480" height="240" />
 
-http://www.openprocessing.org/sketch/719390
+[http://www.openprocessing.org/sketch/719390](http://www.openprocessing.org/sketch/719390)
 
 
 ## Motel Pauline
@@ -365,7 +365,7 @@ Cette création peut être également qualifiée de douce et poétique, ell
 <img src="Motel_Pauline/output.gif" width="480" height="240" />
 
 
-https://www.openprocessing.org/sketch/725373
+[https://www.openprocessing.org/sketch/725373](http://www.openprocessing.org/sketch/719390)
 
 
 ## Charlet Jade
@@ -374,7 +374,7 @@ La couleurs accompagne toujours mes projets en graphisme ou même mes projets ar
 
 <img src="Charlet_Jade/output.gif" width="480" height="240" />
 
-https://www.openprocessing.org/sketch/710982
+[https://www.openprocessing.org/sketch/710982](https://www.openprocessing.org/sketch/710982)
 
 
 ## Ruellan Arthur
@@ -389,7 +389,7 @@ Celui ci peut être modulé en fonction de ses envies afin de lui accorder l’i
 
 <img src="Ruellan_Arthur/output.gif" width="480" height="240" />
 
-https://www.openprocessing.org/sketch/731044
+[https://www.openprocessing.org/sketch/731044](https://www.openprocessing.org/sketch/731044)
 
 
 ## Senlis Ambre
@@ -403,7 +403,7 @@ En s’accumulant et en se superposant, les formes représentent la perte de ges
 
 <img src="Senlis_Ambre/output.gif" width="480" height="240" />
 
-https://www.openprocessing.org/sketch/724994
+[https://www.openprocessing.org/sketch/724994](https://www.openprocessing.org/sketch/724994)
 
 ## Lesage Mathéo
 
@@ -412,5 +412,5 @@ Il est issue des déclinaisons possibles du logo issu de cette charte. Il repré
 
 <img src="Lesage_Matheo/Lesage_Matheo.gif" width="480" height="240" />
 
-https://www.openprocessing.org/sketch/724874
+[https://www.openprocessing.org/sketch/724874](https://www.openprocessing.org/sketch/724874)
 
