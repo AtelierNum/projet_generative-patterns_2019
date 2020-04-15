@@ -4,12 +4,14 @@ This repo holds the projects made by graphic design students @lecolededesign usi
 
 The course followed by students is an introduction to programming in javascript aimed at exploring interactive and generative patterns. It is available in french [here](https://github.com/b2renger/p5js-designing-interactive-patterns)
 
+Code can be viewed and downloaded on this [github](https://github.com/AtelierNum/projet_generative-patterns_2019) repo.
+
 
 Cet espace regroupe les projets réalisé par des étudiants en design graphique à l'école de design de Nantes suite à un cours d'introduction à [p5js](https://p5js.org/)
 
 Le cours d'introduction à la programmation en javascript orienté vers la création de motifs interactifs et génératifs est disponible [ici](https://github.com/b2renger/p5js-designing-interactive-patterns)
 
-
+Le code de ces projets peut-être consulté et téléchargé à partir de ce dépot [github](https://github.com/AtelierNum/projet_generative-patterns_2019)
 
 ## Denéchère Théo
 
